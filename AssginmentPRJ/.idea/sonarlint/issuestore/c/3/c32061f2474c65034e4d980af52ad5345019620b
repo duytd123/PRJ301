@@ -1,0 +1,9 @@
+
+—
+java:S1104"VMake connection a static final constant or non-public and provide accessors if needed.(à¯ôüÿÿÿÿJ$8e383910-eaf8-48aa-83e8-1b115a365358
+i
+java:S2095 "GUse try-with-resources or close this "Statement" in a "finally" clause.(Ùüæúÿÿÿÿ8ØĞËÜı1
+n
+java:S4925"-Remove this "Class.forName()", it is useless.(ìè©‡úÿÿÿÿJ$26a1719e-861c-4f39-968a-195f05107772
+r
+java:S6437"6Revoke and change this password, as it is compromised.(şÃÏ§J$059f6b9b-b20c-46f5-bb15-fb393e25be77

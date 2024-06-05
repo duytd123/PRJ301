@@ -1,0 +1,37 @@
+
+y
+java:S1488Z"^Immediately return this expression instead of assigning it to the temporary variable "number".(äå¥Àûÿÿÿÿ
+z
+java:S1488â"^Immediately return this expression instead of assigning it to the temporary variable "number".(©ÉŞ»ÿÿÿÿÿ
+d
+java:S1192 "IDefine a constant instead of duplicating this literal "Username" 6 times.(²–¿Úüÿÿÿÿ
+b
+java:S1192"GDefine a constant instead of duplicating this literal "UserID" 8 times.(«òßƒùÿÿÿÿ
+_
+java:S1192!"IDefine a constant instead of duplicating this literal "Password" 6 times.(¬…¯
+E	java:S106%"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+M
+java:S6126,"2Replace this String concatenation with Text block.(¶µ²ÿÿÿÿÿ
+E	java:S106;"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+E	java:S106N"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+E	java:S106^"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+E	java:S106n"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+F	java:S106‚"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+N
+java:S6126–"2Replace this String concatenation with Text block.(¶µ²ÿÿÿÿÿ
+F	java:S106¥"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+F	java:S106¸"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+N
+java:S6126¿"2Replace this String concatenation with Text block.(ŞÙ«üÿÿÿÿ
+F	java:S106È"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+N
+java:S6126Î"2Replace this String concatenation with Text block.(ŞÙ«üÿÿÿÿ
+F	java:S106×"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+F	java:S106æ"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+F	java:S106û"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+S
+java:S1854•"7Remove this useless assignment to local variable "dao".(š½åüüÿÿÿÿ
+D
+java:S1481•"(Remove this unused "dao" local variable.(š½åüüÿÿÿÿ

@@ -1,0 +1,21 @@
+
+y
+java:S14881"^Immediately return this expression instead of assigning it to the temporary variable "number".(©ÉŞ»ÿÿÿÿÿ
+y
+java:S1488V"^Immediately return this expression instead of assigning it to the temporary variable "number".(©ÉŞ»ÿÿÿÿÿ
+a
+java:S1192"KDefine a constant instead of duplicating this literal "CategoryID" 3 times.(ÿòÓç
+c
+java:S1192 "MDefine a constant instead of duplicating this literal "CategoryName" 4 times.(¦Á¤©
+E	java:S106%"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+E	java:S1065"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+E	java:S106J"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+E	java:S106Z"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+M
+java:S6126a"2Replace this String concatenation with Text block.(œ”á€ıÿÿÿÿ
+E	java:S106p"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+E	java:S106~"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+N
+java:S6126„"2Replace this String concatenation with Text block.(–•õÚùÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+F	java:S106¢"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ

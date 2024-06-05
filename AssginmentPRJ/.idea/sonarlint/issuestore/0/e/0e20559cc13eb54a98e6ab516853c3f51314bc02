@@ -1,0 +1,30 @@
+
+f	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÂçÛ
+t
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "number".(úÊøØ
+z
+java:S1488‡"^Immediately return this expression instead of assigning it to the temporary variable "number".(§ıó†şÿÿÿÿ
+z
+java:S1488˜"^Immediately return this expression instead of assigning it to the temporary variable "number".(©ÉŞ»ÿÿÿÿÿ
+F
+java:S3740£"/Provide the parametrized type for this generic.(¹Óú 
+F
+java:S3740¶"/Provide the parametrized type for this generic.(¹Óú 
+^
+java:S1192"HDefine a constant instead of duplicating this literal "OrderID" 3 times.(úÊøØ
+E	java:S106#"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+V	java:S125*"<This block of commented-out lines of code should be removed.(‡¼Ş¼ùÿÿÿÿ
+G
+java:S61263"2Replace this String concatenation with Text block.(üÊúR
+E	java:S106I"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+E	java:S106b"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+E	java:S106z"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+F	java:S106‹"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+F	java:S106œ"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+I
+java:S6126¤"2Replace this String concatenation with Text block.(€Õ«
+F	java:S106¯"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+N
+java:S6126·"2Replace this String concatenation with Text block.(ƒÔ«ûıÿÿÿÿ
+F	java:S106Â"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ
+F	java:S106Ë"+Replace this use of System.out by a logger.(¡ëôúÿÿÿÿ
